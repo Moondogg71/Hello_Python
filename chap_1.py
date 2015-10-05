@@ -28,3 +28,4 @@ while True:
         if player_location == wumpus_location:
             print "Arrgh you got eaten by the wumpus!!!!"
             break
+            
