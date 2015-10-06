@@ -37,3 +37,4 @@ while True:
         if player_location == wumpus_friend_location:
             print "Something else ate me"
             break
+

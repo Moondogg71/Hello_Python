@@ -1,0 +1,6 @@
+
+# Matches all characters a-z case insensitive with white space ignored
+# Plus sign means as many as in string
+
+/[a-z\s]+/i 
+
